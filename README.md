@@ -1,5 +1,6 @@
 ![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
+Thanks to the original contributors who made this portfolio website.
 <div align="center">
 
 <a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
