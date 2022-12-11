@@ -9,11 +9,11 @@ const exp = [
     cardImage: "assets/images/experience-page/csu-seal.jpg",
     place: "California State University, Chancellor's Office",
     time: "(September 2021 - Present)",
-    desp: "<li>Develop and manage systemwide data pipeline projects for educator preparation programs serving1000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
+    desp: "<li>Develop and manage systemwide data pipeline projects for educator preparation programs serving 1,000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
     },
   {
     title: "Strategic Data Project Fellow",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/sdp_fellow.jpg",
     place: "Harvard Graduate School of Education",
     time: "(September 2021 - Present)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
