@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Educator Preparation Data Scientist",
-    cardImage: "assets/images/experience-page/csu-seal-new.jpg",
+    cardImage: "assets/images/experience-page/csu-seal-new.png",
     place: "California State University, Chancellor's Office",
     time: "(September 2021 - Present)",
     desp: "<li>Develop and manage systemwide data pipeline projects for educator preparation programs serving 1,000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
@@ -20,28 +20,28 @@ const exp = [
   },
   {
     title: "SQL Crash Course Teaching Assistant",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/corise_logo.jpg",
     place: "Corise",
     time: "(October 2022 - November 2022)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Action Works Data Analyst (6-month contract)",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/patagoia_bear_logo.jpg",
     place: "Patagonia",
     time: "(April 2021 - September 2021)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Data Analyst",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/sfc_logo.jpg",
     place: "Scottish Funding Council",
     time: "(September 2021 - present)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
   {
     title: "Project Manager",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/rana_logo.png",
     place: "Rana Creek Habitat Restoration",
     time: "(September 2021 - present)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
