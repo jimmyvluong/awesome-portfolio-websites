@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Educator Preparation Data Scientist",
-    cardImage: "assets/images/experience-page/csu-seal.jpg",
+    cardImage: "assets/images/experience-page/csu-seal-new.jpg",
     place: "California State University, Chancellor's Office",
     time: "(September 2021 - Present)",
     desp: "<li>Develop and manage systemwide data pipeline projects for educator preparation programs serving 1,000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
