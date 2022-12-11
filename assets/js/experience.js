@@ -6,16 +6,23 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Educator Preparation Data Scientist",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/csu-seal.jpg",
     place: "California State University, Chancellor's Office",
-    time: "(September 2021 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    time: "(September 2021 - Present)",
+    desp: "<li>Develop and manage systemwide data pipeline projects for educator preparation programs serving1000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
+    },
+  {
+    title: "Strategic Data Project Fellow",
+    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    place: "Harvard Graduate School of Education",
+    time: "(September 2021 - Present)",
+    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
   {
     title: "SQL Crash Course Teaching Assistant",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Corise",
-    time: "(October 2022)",
+    time: "(October 2022 - November 2022)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
@@ -24,13 +31,6 @@ const exp = [
     place: "Patagonia",
     time: "(April 2021 - September 2021)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
-  },
-  {
-    title: "Strategic Data Project Fellow",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "Harvard Graduate School of Education",
-    time: "(September 2021 - present)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
   {
     title: "Data Analyst",
