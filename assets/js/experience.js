@@ -83,17 +83,12 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Webmaster",
+    title: "Webmaster at Hooked on Fishing, Not on Violence",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "Hooked on Fishing, Not on Violence. Responsible for maintaining and update the Wordpress website for the non-profit.",
+      "HOFNOV's mission is to foster youth violence prevention programs targeting under-served children and to inspire, educate, empower, and close the opportunity divide, while preparing vulnerable youth and young adults to become contributing members of their families and communities in the Sacramento, California area. Responsible for maintaining and updating our Wordpress website.",
   },
-  {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
-    description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
-  },
+  // Add more volunteering here
 ];
 
 const showCards = () => {
@@ -101,7 +96,7 @@ const showCards = () => {
   volunteershipcards.forEach(
     ({ title, cardImage, description }) =>
       (output += `        
-      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
+      <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 800px;width:600px">
       
       <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
       <div class="content">
