@@ -84,7 +84,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Webmaster at Hooked on Fishing, Not on Violence",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/hofnov.jfif",
     description:
       "HOFNOV's mission is to foster youth violence prevention programs targeting under-served children and to inspire, educate, empower, and close the opportunity divide, while preparing vulnerable youth and young adults to become contributing members of their families and communities in the Sacramento, California area. Responsible for maintaining and updating our Wordpress website.",
   },
@@ -112,43 +112,43 @@ document.addEventListener("DOMContentLoaded", showCards);
 
 // Hackathon Section
 
-const hackathonsection = document.querySelector(".hackathon-section");
-const mentor = [
-  {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-  },
-  {
-    title: "ULHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/ulhacks.png",
-    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
-  },
-  // Add more Hackathon exp here.
+// const hackathonsection = document.querySelector(".hackathon-section");
+// const mentor = [
+//   {
+//     title: "The Uplift Project",
+//     subtitle: "Mentor",
+//     image: "assets/images/experience-page/uplift.png",
+//     desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+//   },
+//   {
+//     title: "ULHacks",
+//     subtitle: "Judge",
+//     image: "assets/images/experience-page/ulhacks.png",
+//     desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
+//   },
+//   // Add more Hackathon exp here.
 
 
-];
+// ];
 
-const showCards3 = () => {
-  let output = "";
-  mentor.forEach(
-    ({ title, image, subtitle, desp }) =>
-      (output += `  
-      <div class="blog-slider__item swiper-slide">
-        <div class="blog-slider__img">
-            <img src="${image}" alt="">
-        </div>
-        <div class="blog-slider__content">
-          <div class="blog-slider__title">${title}</div>
-          <span class="blog-slider__code">${subtitle}</span>
-          <div class="blog-slider__text">${desp}</div>
-          <a href="#" class="blog-slider__button">Read More</a>   
-        </div>
-      </div>
-      `)
-  );
-  hackathonsection.innerHTML = output;
-};
-document.addEventListener("DOMContentLoaded", showCards3);
+// const showCards3 = () => {
+//   let output = "";
+//   mentor.forEach(
+//     ({ title, image, subtitle, desp }) =>
+//       (output += `  
+//       <div class="blog-slider__item swiper-slide">
+//         <div class="blog-slider__img">
+//             <img src="${image}" alt="">
+//         </div>
+//         <div class="blog-slider__content">
+//           <div class="blog-slider__title">${title}</div>
+//           <span class="blog-slider__code">${subtitle}</span>
+//           <div class="blog-slider__text">${desp}</div>
+//           <a href="#" class="blog-slider__button">Read More</a>   
+//         </div>
+//       </div>
+//       `)
+//   );
+//   hackathonsection.innerHTML = output;
+// };
+// document.addEventListener("DOMContentLoaded", showCards3);
