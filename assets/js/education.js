@@ -15,14 +15,14 @@ const moocscards = [
     moocLink: "https://corise.com/course/python-crash-course",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Data Modeling for the Modern Warehouse",
+    cardImage: "assets/images/education-page/corise-data-modeling.png",
+    moocLink: "https://corise.com/course/data-modeling",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Intermediate SQL",
+    cardImage: "assets/images/education-page/corise-int-sql.png",
+    moocLink: "https://corise.com/course/intermediate-sql",
   },
   // {
   //   title: "Introduction to CSS 3",
