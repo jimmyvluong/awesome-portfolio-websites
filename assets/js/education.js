@@ -10,9 +10,9 @@ const moocscards = [
     moocLink: "https://corise.com/course/analytics-engineering-with-dbt",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Python Crash Course",
+    cardImage: "assets/images/education-page/corise-pycc.png",
+    moocLink: "https://corise.com/course/python-crash-course",
   },
   {
     title: "Machine Learning",
