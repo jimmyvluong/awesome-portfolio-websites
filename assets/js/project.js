@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Strava API Fun",
-    cardImage: "assets/images/project-page/quiz.jpg",
+    cardImage: "assets/images/project-page/strava_logo.jpeg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://stackoverflow.com/questions/10514873/line-continuation-characters-in-javascript",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Diversity of Teachers at the CSU",
-    cardImage: "assets/images/project-page/chess.jpg",
+    cardImage: "assets/images/project-page/csu_logo.png",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "https://www.calstate.edu/impact-of-the-csu/teacher-education/educator-quality-center/Pages/edq-dataview.aspx",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Patagonia Action Works",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/paw_logo.jpeg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://www.patagonia.com/actionworks/",
