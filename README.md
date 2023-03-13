@@ -1,7 +1,7 @@
 
 # Welcome to my personal website. 
 
-## This is a work in progress.
+## Hosted with Netlify.
 
 ## Want to make your own portfolio website?🛠
 
