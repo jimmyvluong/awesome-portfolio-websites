@@ -22,7 +22,7 @@ const exp = [
     title: "SQL Crash Course Teaching Assistant",
     cardImage: "assets/images/experience-page/corise_logo.jpg",
     place: "Corise",
-    time: "(October 2022 - November 2022)",
+    time: "(October 2022 - January 2023)",
     desp: "<li>https://corise.com/course/sql-crash-course</li><li>Host office hour sessions to support student learning.</li><li>Answer student questions about SQL based on industry best-practice.</li>",
   },
   {
