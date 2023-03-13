@@ -8,10 +8,10 @@ const projects = [
   {
     title: "Strava API Fun",
     cardImage: "assets/images/project-page/strava_logo.jpeg",
-    description: "A quiz app built using basic react.",
+    description: "A Strava app sourcing all my activities and sharing them in nice data visualizations!",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://stackoverflow.com/questions/10514873/line-continuation-characters-in-javascript",
-    Githublink: "https://github.com/",
+    Previewlink: "https://live-strava-dash-app.onrender.com",
+    Githublink: "https://live-strava-dash-app.onrender.com",
   },
   {
     title: "Diversity of Teachers at the CSU",
