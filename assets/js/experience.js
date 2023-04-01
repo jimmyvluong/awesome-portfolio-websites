@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/csu-seal-new.png",
     place: "California State University, Chancellor's Office",
     time: "(September 2021 - Present)",
-    desp: "<li><a href='https://www.calstate.edu/impact-of-the-csu/teacher-education/educator-quality-center/Pages/default.aspx'>Educator Quality Center website</a></li><li>Develop and manage systemwide data pipeline projects for educator preparation programs serving 1,000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Azure Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
+    desp: "<li><a href='https://www.calstate.edu/impact-of-the-csu/teacher-education/educator-quality-center/Pages/default.aspx'>Educator Quality Center website</a></li><li>Develop and manage systemwide data pipeline projects for educator preparation programs serving 1,000+ users across the 23 CSU campuses.</li><li>Stack: R, Python, Databricks, Azure Data Factory, SQL Server Integration Services, MS SQL Server, Tableau</li>",
     },
   {
     title: "Strategic Data Project Fellow",
@@ -19,6 +19,7 @@ const exp = [
     desp: "<li><a href='https://sdp.cepr.harvard.edu/home'>Strategic Data Project website</a></li><li>Recruited to the Educator Quality Center through the Strategic Data Project (SDP) Partnership, based out of the Center for Education Policy Research at Harvard University.</li><li>The SDP Partnership is a two-year capacity-building program that places data strategists in education agencies to have an immediate impact on policy decisions that affect student outcomes and execute on an actionable strategic data project.<li>Involves extensive training in measurement and analysis, leadership and change management, and education policy.</li>",
   },
   {
+    
     title: "SQL Crash Course Teaching Assistant",
     cardImage: "assets/images/experience-page/corise_logo.jpg",
     place: "Corise",
