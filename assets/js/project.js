@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/jimmyvluong/Strava_API_Fun",
   },
   {
-    title: "Diversity of Teachers at the CSU",
+    title: "Teacher Diversity",
     cardImage: "assets/images/project-page/csu_logo.png",
     description: "Helping the 23 CSU campuses to recruit and prepare teachers from diverse backgrounds.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/",
   },
   {
-    title: "Patagonia Action Works",
+    title: "Action Works",
     cardImage: "assets/images/project-page/paw_img_3_mod.jpeg",
     description: "Connecting individuals with environmental organizations, in order to take action on the most pressing issues facing the world today",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
